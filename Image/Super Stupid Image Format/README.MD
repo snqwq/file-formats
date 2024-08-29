@@ -1,8 +1,13 @@
 # Super Stupid Image Format
 
-custom image format for fun
+> [!NOTE]
+> This image format is in no way practical, efficent, or useful.
+> It was created for fun and educational purposes. (me trying to learn how to create a file format)
 
 ## Specification
+
+- RGB565 (16 bit) Color Format
+- .ssif file extension
 
 ### File Structure
 
