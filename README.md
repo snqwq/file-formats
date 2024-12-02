@@ -2,7 +2,7 @@
 
 the main repo for any file format projects i do
 
-## Formats\
+## Formats
 
 :construction: = work in progress
 
