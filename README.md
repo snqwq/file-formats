@@ -12,4 +12,4 @@ the main repo for any file format projects i do
 
 | format | description               | type  | status         |
 | ------ | ------------------------- | ----- | -------------- |
-| SSIF   | super stupid image format | Image | :construction: |
+| SSIF   | super stupid image format | Image | :white_check_mark: |
